@@ -1,0 +1,6 @@
+python-dotenv
+web3==6.0.0
+django 
+djangorestframework
+pillow
+django-cors-headers

@@ -1,0 +1,1 @@
+DELETE FROM main_item;
